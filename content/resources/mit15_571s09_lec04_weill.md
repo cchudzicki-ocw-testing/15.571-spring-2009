@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: "Unification Model \u2014 UPS: Building the IT-Enabled Enterprise"
-type: OCWFile
 uid: ecec421b-edf3-a9f8-61ef-bdd3c1fc5e3e
 ---
